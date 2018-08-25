@@ -80,3 +80,17 @@ a{
     text-decoration: none;
 
 }
+
+footer{
+    background-color: black;
+    margin: 0;
+    width: 100%;
+    color: white;
+    display: block;
+    margin-top: 15px;
+}
+.footer{
+    display: inline-block;
+    width: 30%;
+    margin: 5px;
+}
